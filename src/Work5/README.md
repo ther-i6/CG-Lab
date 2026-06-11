@@ -1,4 +1,7 @@
 # Whitted-Style 光线追踪实验报告
+
+**姓名**：马浩宇
+**学号**：202411081004
 ## 实验概述
 本实验实现了经典的 Whitted-Style 光线追踪算法，通过发射次级射线（Secondary Rays）来实现硬阴影（Hard Shadows）和理想镜面反射（Perfect Reflection）。
 
